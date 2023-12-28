@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Creating new public Key with name holberton parahrase "Betty" 4096 bits
-ssh-keygen -b 4096 -f holberton -N betty
+# Bash script that creates an RSA key pair
+#ssh-keygen -b 4096 -P betty -f school
+ssh-keygen -t rsa -b 4096 -P betty -f school
