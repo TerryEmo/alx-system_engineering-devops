@@ -1,5 +1,7 @@
 0x19. Postmortem
 
+Issue Summary: Duration: February 15, 2024, 16:00 AM — February 15, 2024, 16:30 AM (UTC-5) Impact: The user-facing website experienced intermittent downtime, resulting in a degraded user experience. Approximately 20% of users were affected, encountering slow page loading and occasional error
+
 Timeline
 17:10 AM : push updates
 17:15 AM : Ckecking problem
